@@ -4,10 +4,10 @@ h2 {
 
 .container {
     padding: 20px;
-    background-color: mediumslateblue;
+
 }
 
-.btn {
-    padding: 20px;
+form {
+    align: center;
 }
 
